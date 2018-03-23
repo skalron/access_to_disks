@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.931,=C:\Users\serg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.723,=C:\Users\serg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,=C:\Users\serg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.085,=C:\Users\serg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.484,=C:\Users\serg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.061,=C:\Users\serg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018.03.23 11:30:45.651,=C:\Users\serg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018.03.23 11:30:45.676,=C:\Users\serg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018.03.23 11:31:43.347,C:\Users\serg\Documents\Embarcadero\Studio\Projects\disk\Unit1.cpp=C:\Users\serg\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2018.03.23 11:31:43.347,C:\Users\serg\Documents\Embarcadero\Studio\Projects\disk\Unit1.dfm=C:\Users\serg\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2018.03.23 11:31:43.347,C:\Users\serg\Documents\Embarcadero\Studio\Projects\disk\Unit1.h=C:\Users\serg\Documents\Embarcadero\Studio\Projects\Unit1.h</Transaction>
+    <Transaction>2018.03.23 11:31:44.807,C:\Users\serg\Documents\Embarcadero\Studio\Projects\disk\Project1PCH1.h=C:\Users\serg\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2018.03.23 11:31:45.823,C:\Users\serg\Documents\Embarcadero\Studio\Projects\disk\Project1.cbproj=C:\Users\serg\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
